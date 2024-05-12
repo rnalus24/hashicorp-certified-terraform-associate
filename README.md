@@ -1,4 +1,4 @@
-# HashiCorp Certified: Terraform Associate - 50 Practical Demos
+# Rome's HashiCorp Certified: Terraform Associate - 50 Practical Demos
 [![Image](https://stacksimplify.com/course-images/hashicorp-certified-terraform-associate-highest-rated.png "HashiCorp Certified: Terraform Associate - 50 Practical Demos")](https://links.stacksimplify.com/hashicorp-certified-terraform-associate)
 
 ## Course Modules
